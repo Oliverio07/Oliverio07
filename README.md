@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/github/followers/oliverio07?style=social">
 </div>
 
-## Languages
+## Languages / Tools I'm learning
 
 <br>
 

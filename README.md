@@ -1,5 +1,5 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-<h3 align="">Student</h3>
+<h3 align=""></h3>
 
 - 📝 I’m learning **Web development**. 
 

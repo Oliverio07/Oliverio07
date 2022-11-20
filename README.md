@@ -29,7 +29,10 @@
 <div align="center">
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Oliverio07&theme=dark&background=000000)](https://git.io/streak-stats)
-
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oliverio07)](https://github.com/Oliverio07/github-readme-stats)
+  
+  
   </div>
 
 <!--

@@ -1,6 +1,8 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 <h3 align="">Computer systems engineer student</h3>
 
+<img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=ecf05e4798b02sddmaxpvllmmuaitrdswp60d8ajza9gp1mz&rid=giphy.gif&ct=g">
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 👨🏻‍💻 I’m currently working on [My web development porfolio](https://github.com/Oliverio07/Oliverio07.github.io)

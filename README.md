@@ -1,7 +1,7 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 <h3 align="">Computer systems engineer student in Mexico</h3>
 
-- 📝 I’m learning **Web development**. 
+- 📝 I’m learning **iOS development**. 
 
 <br>
 
